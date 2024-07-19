@@ -1,6 +1,6 @@
 # Rahaal 👨🏻‍✈️✈️
 
-**Saudi Arabia and The Gulf Countries Travel Planner System**
+**Saudi Arabia & Gulf Countries Travel Planner System**
 🇸🇦🇴🇲🇧🇭🇦🇪🇰🇼🇶🇦
 <br><br>
 Rahaal is an expert system that recommends a simple travel schedule to enhance the tourism experience in Saudi Arabia and the Gulf countries.
